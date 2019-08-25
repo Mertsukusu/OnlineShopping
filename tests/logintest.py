@@ -73,6 +73,9 @@ class Logintest(unittest.TestCase):
         else:
             print("Test case TC005: Fail")
 
+        driver.close()
+        driver.quit()
+
 
 
 

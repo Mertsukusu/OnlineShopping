@@ -415,3 +415,355 @@
 08/13/2019 03:32:56 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='close'] locatorType: xpath
 08/13/2019 03:32:58 AM - SeleniumDriver - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
 08/13/2019 03:33:04 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+08/25/2019 12:44:02 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 12:44:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 12:44:08 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 12:44:08 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 12:44:10 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 12:44:10 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 12:44:12 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 12:44:15 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 12:44:29 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 12:44:29 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 12:44:31 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 12:44:31 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 12:44:33 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 12:44:33 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 12:44:35 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 12:44:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 12:44:53 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 12:44:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 12:44:55 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 12:44:55 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 12:44:57 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 12:44:57 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 12:44:59 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 12:45:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 12:45:17 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 12:45:17 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 12:45:19 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 12:45:19 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 12:45:21 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 12:45:21 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 12:45:23 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 12:45:25 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 12:45:42 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 12:45:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 12:45:46 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 12:45:46 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 12:45:48 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 12:45:48 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 12:45:50 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 12:45:52 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 12:49:33 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 12:49:33 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 12:49:36 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 12:49:36 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 12:49:38 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 12:49:38 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 12:49:40 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 12:49:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 12:49:46 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/25/2019 12:49:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/25/2019 12:49:48 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/25/2019 12:49:48 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/25/2019 12:49:50 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/25/2019 12:49:50 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/25/2019 12:49:52 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/25/2019 12:49:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/25/2019 12:49:59 PM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/25/2019 12:49:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/25/2019 12:50:01 PM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/25/2019 12:50:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/25/2019 12:50:06 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/25/2019 12:50:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/25/2019 12:50:08 PM - SeleniumDriver - INFO: Element found with locator: //a[@id='watchpromo'] and  locatorType: xpath
+08/25/2019 12:50:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='watchpromo'] locatorType: xpath
+08/25/2019 12:50:10 PM - SeleniumDriver - INFO: Element found with locator: //button[@class='close'] and  locatorType: xpath
+08/25/2019 12:50:10 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='close'] locatorType: xpath
+08/25/2019 12:50:12 PM - SeleniumDriver - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+08/25/2019 12:50:17 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+08/25/2019 12:50:32 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 12:50:32 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 12:50:35 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 12:50:35 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 12:50:37 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 12:50:37 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 12:50:39 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 12:50:41 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 12:50:43 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/25/2019 12:50:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/25/2019 12:50:46 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/25/2019 12:50:46 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/25/2019 12:50:48 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/25/2019 12:50:48 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/25/2019 12:50:50 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/25/2019 12:50:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/25/2019 12:50:53 PM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/25/2019 12:50:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/25/2019 12:50:56 PM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/25/2019 12:50:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/25/2019 12:50:59 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/25/2019 12:50:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/25/2019 12:51:01 PM - SeleniumDriver - INFO: Element found with locator: //a[@id='watchpromo'] and  locatorType: xpath
+08/25/2019 12:51:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='watchpromo'] locatorType: xpath
+08/25/2019 12:51:03 PM - SeleniumDriver - INFO: Element found with locator: //button[@class='close'] and  locatorType: xpath
+08/25/2019 12:51:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='close'] locatorType: xpath
+08/25/2019 12:51:06 PM - SeleniumDriver - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+08/25/2019 12:51:13 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+08/25/2019 01:10:41 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:10:42 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:10:44 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:10:44 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:10:46 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:10:46 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:10:48 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:10:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:11:11 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:11:11 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:11:13 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:11:13 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:11:15 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:11:15 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:11:17 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:11:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:11:38 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:11:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:11:40 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:11:40 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:11:42 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:11:42 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:11:44 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:11:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:12:07 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:12:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:12:11 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:12:11 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:12:13 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:12:13 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:12:15 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:12:17 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:12:36 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:12:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:12:39 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:12:39 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:12:41 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:12:42 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:12:44 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:12:45 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:13:49 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:13:49 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:13:52 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:13:52 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:13:54 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:13:54 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:13:56 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:13:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:14:01 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/25/2019 01:14:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/25/2019 01:14:03 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/25/2019 01:14:03 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/25/2019 01:14:05 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/25/2019 01:14:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/25/2019 01:14:08 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/25/2019 01:14:09 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/25/2019 01:14:11 PM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/25/2019 01:14:11 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/25/2019 01:14:13 PM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/25/2019 01:14:14 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/25/2019 01:14:16 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/25/2019 01:14:16 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/25/2019 01:14:19 PM - SeleniumDriver - INFO: Element found with locator: //a[@id='watchpromo'] and  locatorType: xpath
+08/25/2019 01:14:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='watchpromo'] locatorType: xpath
+08/25/2019 01:14:21 PM - SeleniumDriver - INFO: Element found with locator: //button[@class='close'] and  locatorType: xpath
+08/25/2019 01:14:21 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='close'] locatorType: xpath
+08/25/2019 01:14:23 PM - SeleniumDriver - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+08/25/2019 01:14:28 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+08/25/2019 01:14:46 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:14:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:14:49 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:14:49 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:14:51 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:14:51 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:14:53 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:14:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:14:59 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/25/2019 01:14:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/25/2019 01:15:01 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/25/2019 01:15:01 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/25/2019 01:15:03 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/25/2019 01:15:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/25/2019 01:15:05 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/25/2019 01:15:07 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/25/2019 01:15:09 PM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/25/2019 01:15:09 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/25/2019 01:15:11 PM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/25/2019 01:15:14 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/25/2019 01:15:16 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/25/2019 01:15:16 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/25/2019 01:15:18 PM - SeleniumDriver - INFO: Element found with locator: //a[@id='watchpromo'] and  locatorType: xpath
+08/25/2019 01:15:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='watchpromo'] locatorType: xpath
+08/25/2019 01:15:21 PM - SeleniumDriver - INFO: Element found with locator: //button[@class='close'] and  locatorType: xpath
+08/25/2019 01:15:21 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='close'] locatorType: xpath
+08/25/2019 01:15:23 PM - SeleniumDriver - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+08/25/2019 01:15:28 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+08/25/2019 01:18:22 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:18:25 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:18:27 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:18:27 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:18:29 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:18:30 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:18:32 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:18:35 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:18:55 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:18:55 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:18:57 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:18:57 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:18:59 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:18:59 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:19:01 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:19:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:19:24 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:19:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:19:32 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:19:32 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:19:34 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:19:34 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:19:36 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:19:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:19:58 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:20:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:20:03 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:20:03 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:20:05 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:20:05 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:20:07 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:20:09 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:20:27 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:20:31 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:20:33 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:20:34 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:20:36 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:20:36 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:20:38 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:20:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:21:50 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:21:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:21:56 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:21:56 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:21:58 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:21:58 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:22:00 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:22:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:22:21 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:22:27 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:22:29 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:22:29 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:22:31 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:22:31 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:22:33 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:22:35 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:22:53 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:22:56 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:22:58 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:22:59 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:23:01 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:23:01 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:23:03 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:23:05 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:23:21 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:23:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:23:24 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:23:24 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:23:26 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:23:26 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:23:28 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:23:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:23:48 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:23:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:23:55 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:23:55 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:23:57 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:23:57 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:23:59 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:24:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:32:53 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:32:58 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:33:00 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:33:00 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:33:02 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:33:02 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:33:04 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:33:07 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:33:31 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:33:35 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:33:37 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:33:37 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:33:39 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:33:39 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:33:41 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:33:43 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:34:04 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:34:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:34:08 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:34:08 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:34:10 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:34:10 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:34:13 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:34:15 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:34:43 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:34:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:34:48 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:34:48 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:34:50 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:34:51 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:34:53 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:34:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:35:21 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:35:24 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:35:26 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:35:26 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:35:28 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:35:28 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:35:30 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:35:32 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:49:24 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:49:28 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:49:30 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:49:30 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:49:32 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:49:32 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:49:34 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:49:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:49:54 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:49:58 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:50:01 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:50:01 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:50:03 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:50:03 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:50:05 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:50:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:50:25 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:50:31 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:50:33 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:50:33 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:50:35 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:50:35 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:50:37 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:50:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:50:58 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:50:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:51:01 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:51:01 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:51:03 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:51:03 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:51:05 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:51:07 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/25/2019 01:51:29 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/25/2019 01:51:32 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/25/2019 01:51:34 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/25/2019 01:51:35 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/25/2019 01:51:37 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/25/2019 01:51:37 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/25/2019 01:51:39 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/25/2019 01:51:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
