@@ -1,0 +1,417 @@
+07/21/2019 01:04:48 PM - SeleniumDriver - INFO: Cannot send data on the element with locator:  locatorType: id
+07/21/2019 01:08:41 PM - SeleniumDriver - INFO: Element not found with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button and  locatorType: xpath
+07/21/2019 01:08:41 PM - SeleniumDriver - INFO: Cannot click on the element with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button locatorType: xpath
+07/21/2019 01:43:53 PM - SeleniumDriver - INFO: Element found with locator: tab-flight-tab-hp and  locatorType: id
+07/21/2019 01:43:54 PM - SeleniumDriver - INFO: Clicked on element with locator: tab-flight-tab-hp locatorType: id
+07/21/2019 01:43:56 PM - SeleniumDriver - INFO: Element found with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] and  locatorType: xpath
+07/21/2019 01:43:57 PM - SeleniumDriver - INFO: Clicked on element with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] locatorType: xpath
+07/21/2019 01:43:59 PM - SeleniumDriver - INFO: Element found with locator: flight-departing-hp-flight and  locatorType: id
+07/21/2019 01:44:00 PM - SeleniumDriver - INFO: Clicked on element with locator: flight-departing-hp-flight locatorType: id
+07/21/2019 01:44:02 PM - SeleniumDriver - INFO: Element found with locator: //button[@data-day='25' and @data-month='6'] and  locatorType: xpath
+07/21/2019 01:44:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@data-day='25' and @data-month='6'] locatorType: xpath
+07/21/2019 01:44:05 PM - SeleniumDriver - INFO: Element found with locator: flight-returning-hp-flight and  locatorType: id
+07/21/2019 01:44:06 PM - SeleniumDriver - INFO: Clicked on element with locator: flight-returning-hp-flight locatorType: id
+07/21/2019 01:44:08 PM - SeleniumDriver - INFO: Element found with locator: //button[@data-day='6' and @data-month='7'] and  locatorType: xpath
+07/21/2019 01:44:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@data-day='6' and @data-month='7'] locatorType: xpath
+07/21/2019 01:44:10 PM - SeleniumDriver - INFO: Element found with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button and  locatorType: xpath
+07/21/2019 01:44:11 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button locatorType: xpath
+07/21/2019 01:44:13 PM - SeleniumDriver - INFO: Element found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] and  locatorType: xpath
+07/21/2019 01:44:13 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] locatorType: xpath
+07/21/2019 01:44:15 PM - SeleniumDriver - INFO: Element found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button and  locatorType: xpath
+07/21/2019 01:44:16 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button locatorType: xpath
+07/21/2019 01:44:18 PM - SeleniumDriver - INFO: Element found with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button and  locatorType: css
+07/21/2019 01:44:19 PM - SeleniumDriver - INFO: Clicked on element with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button locatorType: css
+07/21/2019 01:49:06 PM - SeleniumDriver - INFO: Element found with locator: tab-flight-tab-hp and  locatorType: id
+07/21/2019 01:49:07 PM - SeleniumDriver - INFO: Clicked on element with locator: tab-flight-tab-hp locatorType: id
+07/21/2019 01:49:09 PM - SeleniumDriver - INFO: Element found with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] and  locatorType: xpath
+07/21/2019 01:49:10 PM - SeleniumDriver - INFO: Clicked on element with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] locatorType: xpath
+07/21/2019 01:49:13 PM - SeleniumDriver - INFO: Element found with locator: flight-departing-hp-flight and  locatorType: id
+07/21/2019 01:49:14 PM - SeleniumDriver - INFO: Clicked on element with locator: flight-departing-hp-flight locatorType: id
+07/21/2019 01:49:16 PM - SeleniumDriver - INFO: Element found with locator: //button[@data-day='25' and @data-month='6'] and  locatorType: xpath
+07/21/2019 01:49:17 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@data-day='25' and @data-month='6'] locatorType: xpath
+07/21/2019 01:49:19 PM - SeleniumDriver - INFO: Element found with locator: flight-returning-hp-flight and  locatorType: id
+07/21/2019 01:49:20 PM - SeleniumDriver - INFO: Clicked on element with locator: flight-returning-hp-flight locatorType: id
+07/21/2019 01:49:22 PM - SeleniumDriver - INFO: Element found with locator: //button[@data-day='6' and @data-month='7'] and  locatorType: xpath
+07/21/2019 01:49:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@data-day='6' and @data-month='7'] locatorType: xpath
+07/21/2019 01:49:24 PM - SeleniumDriver - INFO: Element found with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button and  locatorType: xpath
+07/21/2019 01:49:25 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button locatorType: xpath
+07/21/2019 01:49:27 PM - SeleniumDriver - INFO: Element found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] and  locatorType: xpath
+07/21/2019 01:49:28 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] locatorType: xpath
+07/21/2019 01:49:30 PM - SeleniumDriver - INFO: Element found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button and  locatorType: xpath
+07/21/2019 01:49:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button locatorType: xpath
+07/21/2019 01:49:32 PM - SeleniumDriver - INFO: Element found with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button and  locatorType: css
+07/21/2019 01:49:33 PM - SeleniumDriver - INFO: Clicked on element with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button locatorType: css
+07/28/2019 10:16:43 AM - SeleniumDriver - INFO: Element found with locator: tab-flight-tab-hp and  locatorType: id
+07/28/2019 10:16:44 AM - SeleniumDriver - INFO: Clicked on element with locator: tab-flight-tab-hp locatorType: id
+07/28/2019 10:16:47 AM - SeleniumDriver - INFO: Element found with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] and  locatorType: xpath
+07/28/2019 10:16:48 AM - SeleniumDriver - INFO: Clicked on element with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] locatorType: xpath
+07/28/2019 10:16:50 AM - SeleniumDriver - INFO: Element found with locator: flight-departing-hp-flight and  locatorType: id
+07/28/2019 10:16:51 AM - SeleniumDriver - INFO: Clicked on element with locator: flight-departing-hp-flight locatorType: id
+07/28/2019 10:16:56 AM - SeleniumDriver - INFO: Element not found with locator: //button[@data-day='25' and @data-month='6'] and  locatorType: xpath
+07/28/2019 10:16:56 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@data-day='25' and @data-month='6'] locatorType: xpath
+07/28/2019 10:16:58 AM - SeleniumDriver - INFO: Element found with locator: flight-returning-hp-flight and  locatorType: id
+07/28/2019 10:16:59 AM - SeleniumDriver - INFO: Clicked on element with locator: flight-returning-hp-flight locatorType: id
+07/28/2019 10:17:01 AM - SeleniumDriver - INFO: Element found with locator: //button[@data-day='6' and @data-month='7'] and  locatorType: xpath
+07/28/2019 10:17:01 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@data-day='6' and @data-month='7'] locatorType: xpath
+07/28/2019 10:17:03 AM - SeleniumDriver - INFO: Element found with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button and  locatorType: xpath
+07/28/2019 10:17:04 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button locatorType: xpath
+07/28/2019 10:17:06 AM - SeleniumDriver - INFO: Element found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] and  locatorType: xpath
+07/28/2019 10:17:06 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] locatorType: xpath
+07/28/2019 10:17:08 AM - SeleniumDriver - INFO: Element found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button and  locatorType: xpath
+07/28/2019 10:17:08 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button locatorType: xpath
+07/28/2019 10:17:10 AM - SeleniumDriver - INFO: Element found with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button and  locatorType: css
+07/28/2019 10:17:11 AM - SeleniumDriver - INFO: Clicked on element with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button locatorType: css
+07/28/2019 10:30:07 AM - SeleniumDriver - INFO: Element found with locator: tab-flight-tab-hp and  locatorType: id
+07/28/2019 10:30:08 AM - SeleniumDriver - INFO: Clicked on element with locator: tab-flight-tab-hp locatorType: id
+07/28/2019 10:30:10 AM - SeleniumDriver - INFO: Element found with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] and  locatorType: xpath
+07/28/2019 10:30:11 AM - SeleniumDriver - INFO: Clicked on element with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] locatorType: xpath
+07/28/2019 10:30:13 AM - SeleniumDriver - INFO: Element found with locator: flight-departing-hp-flight and  locatorType: id
+07/28/2019 10:30:14 AM - SeleniumDriver - INFO: Clicked on element with locator: flight-departing-hp-flight locatorType: id
+07/28/2019 10:30:19 AM - SeleniumDriver - INFO: Element not found with locator: //button[@data-day='25' and @data-month='6'] and  locatorType: xpath
+07/28/2019 10:30:19 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@data-day='25' and @data-month='6'] locatorType: xpath
+07/28/2019 10:30:21 AM - SeleniumDriver - INFO: Element found with locator: flight-returning-hp-flight and  locatorType: id
+07/28/2019 10:30:21 AM - SeleniumDriver - INFO: Clicked on element with locator: flight-returning-hp-flight locatorType: id
+07/28/2019 10:30:24 AM - SeleniumDriver - INFO: Element found with locator: //button[@data-day='6' and @data-month='7'] and  locatorType: xpath
+07/28/2019 10:30:24 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@data-day='6' and @data-month='7'] locatorType: xpath
+07/28/2019 10:30:26 AM - SeleniumDriver - INFO: Element found with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button and  locatorType: xpath
+07/28/2019 10:30:27 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button locatorType: xpath
+07/28/2019 10:30:29 AM - SeleniumDriver - INFO: Element found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] and  locatorType: xpath
+07/28/2019 10:30:29 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] locatorType: xpath
+07/28/2019 10:30:31 AM - SeleniumDriver - INFO: Element found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button and  locatorType: xpath
+07/28/2019 10:30:31 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button locatorType: xpath
+07/28/2019 10:30:35 AM - SeleniumDriver - INFO: Element not found with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button and  locatorType: css
+07/28/2019 10:30:35 AM - SeleniumDriver - INFO: Cannot click on the element with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button locatorType: css
+07/28/2019 10:36:19 AM - SeleniumDriver - INFO: Element found with locator: tab-flight-tab-hp and  locatorType: id
+07/28/2019 10:36:19 AM - SeleniumDriver - INFO: Clicked on element with locator: tab-flight-tab-hp locatorType: id
+07/28/2019 10:36:21 AM - SeleniumDriver - INFO: Element found with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] and  locatorType: xpath
+07/28/2019 10:36:22 AM - SeleniumDriver - INFO: Clicked on element with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] locatorType: xpath
+07/28/2019 10:36:24 AM - SeleniumDriver - INFO: Element found with locator: flight-departing-hp-flight and  locatorType: id
+07/28/2019 10:36:24 AM - SeleniumDriver - INFO: Clicked on element with locator: flight-departing-hp-flight locatorType: id
+07/28/2019 10:36:29 AM - SeleniumDriver - INFO: Element not found with locator: //button[@data-day='25' and @data-month='6'] and  locatorType: xpath
+07/28/2019 10:36:29 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@data-day='25' and @data-month='6'] locatorType: xpath
+07/28/2019 10:36:32 AM - SeleniumDriver - INFO: Element found with locator: flight-returning-hp-flight and  locatorType: id
+07/28/2019 10:36:32 AM - SeleniumDriver - INFO: Clicked on element with locator: flight-returning-hp-flight locatorType: id
+07/28/2019 10:36:34 AM - SeleniumDriver - INFO: Element found with locator: //button[@data-day='6' and @data-month='7'] and  locatorType: xpath
+07/28/2019 10:36:35 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@data-day='6' and @data-month='7'] locatorType: xpath
+07/28/2019 10:36:37 AM - SeleniumDriver - INFO: Element found with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button and  locatorType: xpath
+07/28/2019 10:36:38 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button locatorType: xpath
+07/28/2019 10:36:40 AM - SeleniumDriver - INFO: Element found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] and  locatorType: xpath
+07/28/2019 10:36:40 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] locatorType: xpath
+07/28/2019 10:36:42 AM - SeleniumDriver - INFO: Element found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button and  locatorType: xpath
+07/28/2019 10:36:43 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button locatorType: xpath
+07/28/2019 10:36:45 AM - SeleniumDriver - INFO: Element found with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button and  locatorType: css
+07/28/2019 10:36:46 AM - SeleniumDriver - INFO: Clicked on element with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button locatorType: css
+07/28/2019 10:39:39 AM - SeleniumDriver - INFO: Element found with locator: tab-flight-tab-hp and  locatorType: id
+07/28/2019 10:39:39 AM - SeleniumDriver - INFO: Clicked on element with locator: tab-flight-tab-hp locatorType: id
+07/28/2019 10:39:41 AM - SeleniumDriver - INFO: Element found with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] and  locatorType: xpath
+07/28/2019 10:39:42 AM - SeleniumDriver - INFO: Clicked on element with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] locatorType: xpath
+07/28/2019 10:39:44 AM - SeleniumDriver - INFO: Element found with locator: flight-departing-hp-flight and  locatorType: id
+07/28/2019 10:39:44 AM - SeleniumDriver - INFO: Clicked on element with locator: flight-departing-hp-flight locatorType: id
+07/28/2019 10:39:49 AM - SeleniumDriver - INFO: Element not found with locator: //button[@data-day='25' and @data-month='6'] and  locatorType: xpath
+07/28/2019 10:39:49 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@data-day='25' and @data-month='6'] locatorType: xpath
+07/28/2019 10:39:51 AM - SeleniumDriver - INFO: Element found with locator: flight-returning-hp-flight and  locatorType: id
+07/28/2019 10:39:52 AM - SeleniumDriver - INFO: Clicked on element with locator: flight-returning-hp-flight locatorType: id
+07/28/2019 10:39:54 AM - SeleniumDriver - INFO: Element found with locator: //button[@data-day='6' and @data-month='7'] and  locatorType: xpath
+07/28/2019 10:39:55 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@data-day='6' and @data-month='7'] locatorType: xpath
+07/28/2019 10:39:57 AM - SeleniumDriver - INFO: Element found with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button and  locatorType: xpath
+07/28/2019 10:39:58 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button locatorType: xpath
+07/28/2019 10:40:00 AM - SeleniumDriver - INFO: Element found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] and  locatorType: xpath
+07/28/2019 10:40:00 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] locatorType: xpath
+07/28/2019 10:40:02 AM - SeleniumDriver - INFO: Element found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button and  locatorType: xpath
+07/28/2019 10:40:03 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button locatorType: xpath
+07/28/2019 10:40:05 AM - SeleniumDriver - INFO: Element found with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button and  locatorType: css
+07/28/2019 10:40:06 AM - SeleniumDriver - INFO: Clicked on element with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button locatorType: css
+07/28/2019 10:41:16 AM - SeleniumDriver - INFO: Element not found with locator: tab-flight-tab-hp and  locatorType: id
+07/28/2019 10:41:16 AM - SeleniumDriver - INFO: Cannot click on the element with locator: tab-flight-tab-hp locatorType: id
+07/28/2019 10:41:19 AM - SeleniumDriver - INFO: Element not found with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] and  locatorType: xpath
+07/28/2019 10:41:19 AM - SeleniumDriver - INFO: Cannot click on the element with locator:  //label[@id='flight-type-roundtrip-label-hp-flight'] locatorType: xpath
+07/28/2019 10:41:21 AM - SeleniumDriver - INFO: Element not found with locator: flight-departing-hp-flight and  locatorType: id
+07/28/2019 10:41:21 AM - SeleniumDriver - INFO: Cannot click on the element with locator: flight-departing-hp-flight locatorType: id
+07/28/2019 10:41:23 AM - SeleniumDriver - INFO: Element not found with locator: //button[@data-day='25' and @data-month='6'] and  locatorType: xpath
+07/28/2019 10:41:23 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@data-day='25' and @data-month='6'] locatorType: xpath
+07/28/2019 10:41:25 AM - SeleniumDriver - INFO: Element not found with locator: flight-returning-hp-flight and  locatorType: id
+07/28/2019 10:41:25 AM - SeleniumDriver - INFO: Cannot click on the element with locator: flight-returning-hp-flight locatorType: id
+07/28/2019 10:41:27 AM - SeleniumDriver - INFO: Element not found with locator: //button[@data-day='6' and @data-month='7'] and  locatorType: xpath
+07/28/2019 10:41:27 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@data-day='6' and @data-month='7'] locatorType: xpath
+07/28/2019 10:41:29 AM - SeleniumDriver - INFO: Element not found with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button and  locatorType: xpath
+07/28/2019 10:41:29 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[@id='traveler-selector-hp-flight']//div/ul/li/button locatorType: xpath
+07/28/2019 10:41:31 AM - SeleniumDriver - INFO: Element not found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] and  locatorType: xpath
+07/28/2019 10:41:31 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/div/div/div[1]/div[4]/button/span[1] locatorType: xpath
+07/28/2019 10:41:33 AM - SeleniumDriver - INFO: Element not found with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button and  locatorType: xpath
+07/28/2019 10:41:33 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //*[@id='traveler-selector-hp-flight']/div/ul/li/div/footer/div/div[2]/button locatorType: xpath
+07/28/2019 10:41:36 AM - SeleniumDriver - INFO: Element not found with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button and  locatorType: css
+07/28/2019 10:41:36 AM - SeleniumDriver - INFO: Cannot click on the element with locator: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button locatorType: css
+08/06/2019 08:49:24 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/06/2019 08:49:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/06/2019 08:49:32 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/06/2019 08:49:32 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/06/2019 08:49:34 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/06/2019 08:49:35 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/06/2019 08:49:37 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/06/2019 08:49:42 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/06/2019 08:50:02 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/06/2019 08:50:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/06/2019 08:50:08 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/06/2019 08:50:08 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/06/2019 08:50:10 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/06/2019 08:50:10 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/06/2019 08:50:12 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/06/2019 08:50:15 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/06/2019 09:15:54 PM - SeleniumDriver - INFO: Element not found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/06/2019 09:15:54 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/06/2019 09:15:56 PM - SeleniumDriver - INFO: Element not found with locator: #user_email and  locatorType: css
+08/06/2019 09:15:56 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: #user_email locatorType: css
+08/06/2019 09:15:59 PM - SeleniumDriver - INFO: Element not found with locator:  #user_password and  locatorType: css
+08/06/2019 09:15:59 PM - SeleniumDriver - INFO: Cannot send data on the element with locator:  #user_password locatorType: css
+08/06/2019 09:16:01 PM - SeleniumDriver - INFO: Element not found with locator: //input[@name='commit'] and  locatorType: xpath
+08/06/2019 09:16:01 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@name='commit'] locatorType: xpath
+08/06/2019 09:19:59 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/06/2019 09:19:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/06/2019 09:20:01 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/06/2019 09:20:01 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/06/2019 09:20:03 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/06/2019 09:20:03 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/06/2019 09:20:06 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/06/2019 09:20:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/06/2019 09:20:20 PM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/06/2019 09:20:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/06/2019 09:20:24 PM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/06/2019 09:20:24 PM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/06/2019 09:20:26 PM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/06/2019 09:20:26 PM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/06/2019 09:20:28 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/06/2019 09:20:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/13/2019 02:18:09 AM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/13/2019 02:18:10 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/13/2019 02:18:12 AM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/13/2019 02:18:12 AM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/13/2019 02:18:14 AM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/13/2019 02:18:14 AM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/13/2019 02:18:16 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/13/2019 02:18:20 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/13/2019 02:18:22 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/13/2019 02:18:22 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/13/2019 02:18:24 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/13/2019 02:18:24 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/13/2019 02:18:26 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/13/2019 02:18:27 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/13/2019 02:18:29 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/13/2019 02:18:30 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/13/2019 02:18:32 AM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/13/2019 02:18:32 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/13/2019 02:18:34 AM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/13/2019 02:18:36 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/13/2019 02:18:38 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/13/2019 02:18:38 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/13/2019 03:11:04 AM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/13/2019 03:11:08 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/13/2019 03:11:10 AM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/13/2019 03:11:10 AM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/13/2019 03:11:12 AM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/13/2019 03:11:12 AM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/13/2019 03:11:14 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/13/2019 03:11:17 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/13/2019 03:11:19 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/13/2019 03:11:19 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/13/2019 03:11:21 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/13/2019 03:11:22 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/13/2019 03:11:24 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/13/2019 03:11:24 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/13/2019 03:11:26 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/13/2019 03:11:28 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/13/2019 03:11:30 AM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/13/2019 03:11:30 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/13/2019 03:11:32 AM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/13/2019 03:11:34 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/13/2019 03:11:36 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/13/2019 03:11:36 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/13/2019 03:11:38 AM - SeleniumDriver - INFO: Element found with locator: //a[@id='watchpromo'] and  locatorType: xpath
+08/13/2019 03:11:38 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='watchpromo'] locatorType: xpath
+08/13/2019 03:14:51 AM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/13/2019 03:14:54 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/13/2019 03:14:56 AM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/13/2019 03:14:56 AM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/13/2019 03:14:58 AM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/13/2019 03:14:59 AM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/13/2019 03:15:01 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/13/2019 03:15:04 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/13/2019 03:15:06 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/13/2019 03:15:06 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/13/2019 03:15:09 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/13/2019 03:15:09 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/13/2019 03:15:11 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/13/2019 03:15:11 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/13/2019 03:15:13 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/13/2019 03:15:15 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/13/2019 03:15:17 AM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/13/2019 03:15:18 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/13/2019 03:15:20 AM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/13/2019 03:15:22 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/13/2019 03:15:24 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/13/2019 03:15:24 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/13/2019 03:15:26 AM - SeleniumDriver - INFO: Element found with locator: //a[@id='watchpromo'] and  locatorType: xpath
+08/13/2019 03:15:27 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='watchpromo'] locatorType: xpath
+08/13/2019 03:18:38 AM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/13/2019 03:18:42 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/13/2019 03:18:44 AM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/13/2019 03:18:44 AM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/13/2019 03:18:46 AM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/13/2019 03:18:46 AM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/13/2019 03:18:48 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/13/2019 03:18:52 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/13/2019 03:18:54 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/13/2019 03:18:54 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/13/2019 03:18:56 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/13/2019 03:18:56 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/13/2019 03:18:58 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/13/2019 03:18:58 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/13/2019 03:19:01 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/13/2019 03:19:03 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/13/2019 03:19:05 AM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/13/2019 03:19:05 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/13/2019 03:19:07 AM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/13/2019 03:19:10 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/13/2019 03:19:12 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/13/2019 03:19:12 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/13/2019 03:19:14 AM - SeleniumDriver - INFO: Element found with locator: //a[@id='watchpromo'] and  locatorType: xpath
+08/13/2019 03:19:15 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='watchpromo'] locatorType: xpath
+08/13/2019 03:23:51 AM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/13/2019 03:23:54 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/13/2019 03:23:56 AM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/13/2019 03:23:57 AM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/13/2019 03:23:59 AM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/13/2019 03:23:59 AM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/13/2019 03:24:01 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/13/2019 03:24:06 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/13/2019 03:24:08 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/13/2019 03:24:08 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/13/2019 03:24:10 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/13/2019 03:24:10 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/13/2019 03:24:13 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/13/2019 03:24:13 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/13/2019 03:24:15 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/13/2019 03:24:17 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/13/2019 03:24:19 AM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/13/2019 03:24:19 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/13/2019 03:24:22 AM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/13/2019 03:24:24 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/13/2019 03:24:26 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/13/2019 03:24:26 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/13/2019 03:24:28 AM - SeleniumDriver - INFO: Element found with locator: //a[@id='watchpromo'] and  locatorType: xpath
+08/13/2019 03:24:29 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='watchpromo'] locatorType: xpath
+08/13/2019 03:24:31 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='close'] and  locatorType: xpath
+08/13/2019 03:24:31 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='close'] locatorType: xpath
+08/13/2019 03:24:33 AM - SeleniumDriver - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+08/13/2019 03:24:37 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+08/13/2019 03:24:52 AM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/13/2019 03:24:56 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/13/2019 03:24:58 AM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/13/2019 03:24:58 AM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/13/2019 03:25:00 AM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/13/2019 03:25:00 AM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/13/2019 03:25:02 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/13/2019 03:25:06 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/13/2019 03:25:08 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/13/2019 03:25:08 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/13/2019 03:25:10 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/13/2019 03:25:11 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/13/2019 03:25:13 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/13/2019 03:25:13 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/13/2019 03:25:16 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/13/2019 03:25:16 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/13/2019 03:25:18 AM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/13/2019 03:25:19 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/13/2019 03:25:21 AM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/13/2019 03:25:21 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/13/2019 03:25:23 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/13/2019 03:25:24 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/13/2019 03:25:26 AM - SeleniumDriver - INFO: Element found with locator: //a[@id='watchpromo'] and  locatorType: xpath
+08/13/2019 03:25:26 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='watchpromo'] locatorType: xpath
+08/13/2019 03:25:28 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='close'] and  locatorType: xpath
+08/13/2019 03:25:28 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@class='close'] locatorType: xpath
+08/13/2019 03:25:30 AM - SeleniumDriver - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+08/13/2019 03:25:30 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+08/13/2019 03:26:12 AM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/13/2019 03:26:16 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/13/2019 03:26:18 AM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/13/2019 03:26:18 AM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/13/2019 03:26:20 AM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/13/2019 03:26:20 AM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/13/2019 03:26:22 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/13/2019 03:26:26 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/13/2019 03:26:28 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/13/2019 03:26:28 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/13/2019 03:26:30 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/13/2019 03:26:30 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/13/2019 03:26:33 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/13/2019 03:26:33 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/13/2019 03:26:35 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/13/2019 03:26:40 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/13/2019 03:26:42 AM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/13/2019 03:26:43 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/13/2019 03:26:45 AM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/13/2019 03:26:48 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/13/2019 03:26:50 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/13/2019 03:26:50 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/13/2019 03:26:52 AM - SeleniumDriver - INFO: Element found with locator: //a[@id='watchpromo'] and  locatorType: xpath
+08/13/2019 03:26:52 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='watchpromo'] locatorType: xpath
+08/13/2019 03:26:55 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='close'] and  locatorType: xpath
+08/13/2019 03:26:55 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='close'] locatorType: xpath
+08/13/2019 03:26:57 AM - SeleniumDriver - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+08/13/2019 03:27:03 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+08/13/2019 03:31:17 AM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/13/2019 03:31:21 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/13/2019 03:31:23 AM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/13/2019 03:31:23 AM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/13/2019 03:31:25 AM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/13/2019 03:31:25 AM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/13/2019 03:31:27 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/13/2019 03:31:31 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/13/2019 03:31:33 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/13/2019 03:31:33 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/13/2019 03:31:35 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/13/2019 03:31:36 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/13/2019 03:31:38 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/13/2019 03:31:38 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/13/2019 03:31:40 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/13/2019 03:31:42 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/13/2019 03:31:45 AM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/13/2019 03:31:45 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/13/2019 03:31:47 AM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/13/2019 03:31:49 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/13/2019 03:31:51 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/13/2019 03:31:51 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/13/2019 03:31:53 AM - SeleniumDriver - INFO: Element found with locator: //a[@id='watchpromo'] and  locatorType: xpath
+08/13/2019 03:31:54 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='watchpromo'] locatorType: xpath
+08/13/2019 03:31:56 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='close'] and  locatorType: xpath
+08/13/2019 03:31:56 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='close'] locatorType: xpath
+08/13/2019 03:31:58 AM - SeleniumDriver - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+08/13/2019 03:32:03 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
+08/13/2019 03:32:18 AM - SeleniumDriver - INFO: Element found with locator: //a[@class='navbar-link fedora-navbar-link'] and  locatorType: xpath
+08/13/2019 03:32:21 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] locatorType: xpath
+08/13/2019 03:32:23 AM - SeleniumDriver - INFO: Element found with locator: #user_email and  locatorType: css
+08/13/2019 03:32:23 AM - SeleniumDriver - INFO: Sent data on element with locator: #user_email locatorType: css
+08/13/2019 03:32:25 AM - SeleniumDriver - INFO: Element found with locator:  #user_password and  locatorType: css
+08/13/2019 03:32:25 AM - SeleniumDriver - INFO: Sent data on element with locator:  #user_password locatorType: css
+08/13/2019 03:32:27 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='commit'] and  locatorType: xpath
+08/13/2019 03:32:31 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='commit'] locatorType: xpath
+08/13/2019 03:32:33 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
+08/13/2019 03:32:33 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
+08/13/2019 03:32:35 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='search-courses'] and  locatorType: xpath
+08/13/2019 03:32:36 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='search-courses'] locatorType: xpath
+08/13/2019 03:32:38 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='row search']//div[1]//div[2]//button[1] and  locatorType: xpath
+08/13/2019 03:32:38 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='row search']//div[1]//div[2]//button[1] locatorType: xpath
+08/13/2019 03:32:40 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Software Testing (5)')] and  locatorType: xpath
+08/13/2019 03:32:42 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Software Testing (5)')] locatorType: xpath
+08/13/2019 03:32:44 AM - SeleniumDriver - INFO: Element found with locator: //button[contains(text(),'All')] and  locatorType: xpath
+08/13/2019 03:32:44 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(text(),'All')] locatorType: xpath
+08/13/2019 03:32:46 AM - SeleniumDriver - INFO: Element found with locator: //a[@href='/courses/author/154569'] and  locatorType: xpath
+08/13/2019 03:32:49 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/courses/author/154569'] locatorType: xpath
+08/13/2019 03:32:51 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] and  locatorType: xpath
+08/13/2019 03:32:51 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Selenium WebDriver With Python 3.x')] locatorType: xpath
+08/13/2019 03:32:53 AM - SeleniumDriver - INFO: Element found with locator: //a[@id='watchpromo'] and  locatorType: xpath
+08/13/2019 03:32:54 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='watchpromo'] locatorType: xpath
+08/13/2019 03:32:56 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='close'] and  locatorType: xpath
+08/13/2019 03:32:56 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='close'] locatorType: xpath
+08/13/2019 03:32:58 AM - SeleniumDriver - INFO: Element found with locator: //button[@id='enroll-button-top'] and  locatorType: xpath
+08/13/2019 03:33:04 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@id='enroll-button-top'] locatorType: xpath
