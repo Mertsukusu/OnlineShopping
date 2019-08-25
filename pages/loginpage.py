@@ -15,7 +15,7 @@ class LoginPage(SeleniumDriver):
     _password_tab=" #user_password"
     _logIn_button="//input[@name='commit']"
 
-
+    #action
     def clicklogin(self):
         return self.elementClick(self._login_tab, locatorType="xpath")
     def sendkeysemail(self, _email_tab):
