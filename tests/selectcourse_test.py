@@ -56,7 +56,7 @@ class CourseTests(unittest.TestCase):
         else:
             print("TestCase TC004: Fail")
 
-        """TestCase Tc005; Click Author Button and select Let's kode it button """
+        """TestCase TC005; Click Author Button and select Let's kode it button """
 
         sc.author_all()
         sc.letskodeitbutton()
@@ -67,7 +67,7 @@ class CourseTests(unittest.TestCase):
         else:
             print("TestCase TC005: Fail")
 
-        """TestCase Tc006; Click Selenium WebDriver With Python 3 Course and go to next page"""
+        """TestCase TC006; Click Selenium WebDriver With Python 3 Course and go to next page"""
 
         ##Click Selenium Webdriver with Python Course button
         sc.seleniumpythoncourse()
@@ -81,7 +81,7 @@ class CourseTests(unittest.TestCase):
         else:
             print("TestCase TC006: Fail")
 
-        """TestCase Tc007; Click Watch Promo Video"""
+        """TestCase TC007; Click Watch Promo Video"""
 
         sc.watchpromo()
 
@@ -92,7 +92,7 @@ class CourseTests(unittest.TestCase):
             print("TestCase TC007: Fail")
 
 
-        """TestCase Tc008; Close Promo video """
+        """TestCase TC008; Close Promo video """
         ##Close promo video
         sc.closepromovideo()
 
@@ -103,7 +103,7 @@ class CourseTests(unittest.TestCase):
         else:
             print("TestCase TC008: Fail")
 
-        """TestCase Tc009; Click Enroll course button and go to payment page"""
+        """TestCase TC009; Click Enroll course button and go to payment page"""
 
         ## Click Enroll in Course Button
         sc.enrollcourse()
